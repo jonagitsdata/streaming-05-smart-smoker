@@ -52,5 +52,5 @@ We can receive email or text alerts when significant events occur by adding outg
 
 ## Screenshot of Program Running:
 ## Screenshot in Anaconda Prompt
-![smoker_on_conda](smoker_conda.png)
+![smokerv1](smoker_conda.png)
 
