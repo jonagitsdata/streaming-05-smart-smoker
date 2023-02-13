@@ -51,6 +51,6 @@ We'll use Python to:
 We can receive email or text alerts when significant events occur by adding outgoing email functionality.
 
 ## Screenshot of Program Running:
-## Screenshot in Anaconda Prompt
-![smokerv1](smoker_conda.png)
+
+<img width="1440" alt="smoker_conda" src="https://user-images.githubusercontent.com/104871382/218451862-5ba98464-3d0b-4061-a3cc-96110119ea78.png">
 
